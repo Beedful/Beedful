@@ -19,6 +19,7 @@ I’m looking for help with **hosting**.
 - CSS (learning)
 - Go (learning)
 - C++ (learning)
+- Kotlin (learning)
 
 <!--
 **Beedful/Beedful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
