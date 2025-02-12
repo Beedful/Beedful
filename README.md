@@ -1,11 +1,11 @@
 # Hi there 👋
 
-I'm bread, a piece of toast.
+I'm Beedful.
 
 ## Personal Info
 I’m currently working on **nothing**.
 
-I’m currently learning **C++**.
+I’m currently learning **Go**.
 
 I’m looking to collaborate on **Discord bots**.
 
@@ -14,9 +14,9 @@ I’m looking for help with **hosting**.
 ## Languages I Know
 - Python
 - Java (learning)
-- JS
+- JavaScript
 - HTML
-- CSS (learning)
+- CSS
 - Go (learning)
 - C++ (learning)
 - Kotlin (learning)
